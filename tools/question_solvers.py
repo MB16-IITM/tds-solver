@@ -353,7 +353,7 @@ def solver_13(file_name: str, value: str):
     # # Push the changes
     # subprocess.run(["git", "push"], check=True)
     # os.chdir(PWD)
-    return f"https://raw.githubusercontent.com/trebhuvanSB/TDS/refs/heads/main/email.json"
+    return f"https://raw.githubusercontent.com/MB16-IITM/sanity-check/refs/heads/main/email.json"
 
 def solver_14(temp_dir: str, file_path: str, file_name: str, existing_word: str, new_word: str, command: str):
     import tempfile
@@ -698,7 +698,7 @@ def solver_21(email_id: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f"https://trebhuvansb.github.io/"
+    return f"https://mb16-iitm.github.io/testing-pages/"
 
 
 def solver_22(email_id: str):
@@ -726,7 +726,7 @@ def solver_23(temp_dir: str, file_path: str, file_name: str, lightness_threshold
 
 def solver_24(temp_dir: str, file_path: str, file_name: str):
     ### Have to implement this later
-    return f'''https://vercel-tds-week2.vercel.app/api'''
+    return f'''https://vercel-python-8exf06y72-manits-projects-bf784af9.vercel.app/api'''
 
 
 
@@ -775,12 +775,12 @@ def solver_25(email: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f'''https://github.com/trebhuvanSB/actions_TDSWeek2'''
+    return f'''https://github.com/MB16-IITM/testing-pages'''
     
 
 
 def solver_26(tag: str): #### Need to check later ####
-    return f'''https://hub.docker.com/repository/docker/trebhuvansb/py-hello/tags'''
+    return f'''https://hub.docker.com/repository/docker/manitbohraiitm/my-docker-image/general'''
     
 
 def solver_27(temp_dir: str, file_path: str, file_name: str):
@@ -1376,7 +1376,7 @@ def solver_44(email: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f'''https://github.com/trebhuvanSB/tds_scheduled_actions'''
+    return f'''https://github.com/MB16-IITM/tds_scheduled_actions'''
 
 def solver_45(temp_dir: str, file_path: str, file_name: str, subject_whose_marks_to_be_calculated: str, marks_in_criterion_subject: int, criterion_subject: str, group_start_number: int, group_end_number: int):
     import tabula
